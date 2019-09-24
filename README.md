@@ -1,2 +1,3 @@
 # Battleships
-Game + QLearner
+
+Q Learner coming soon!
